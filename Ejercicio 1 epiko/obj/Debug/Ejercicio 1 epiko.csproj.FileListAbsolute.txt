@@ -1,0 +1,8 @@
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\bin\Debug\Ejercicio 1 epiko.exe.config
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\bin\Debug\Ejercicio 1 epiko.exe
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\bin\Debug\Ejercicio 1 epiko.pdb
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\obj\Debug\Ejercicio 1 epiko.csproj.AssemblyReference.cache
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\obj\Debug\Ejercicio 1 epiko.csproj.SuggestedBindingRedirects.cache
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\obj\Debug\Ejercicio 1 epiko.csproj.CoreCompileInputs.cache
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\obj\Debug\Ejercicio 1 epiko.exe
+C:\Users\renyf\Documents\Programación\Prácticas\Ejercicio 1 epiko\obj\Debug\Ejercicio 1 epiko.pdb
